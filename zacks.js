@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Zacks网球场预定小助手(浏览器插件)
 // @namespace    http://zacks.com.cn/
-// @version      0.1
+// @version      0.1.1
 // @description  显示场地状态
 // @author       claude89757
 // @match        *://*.ydmap.cn/*
