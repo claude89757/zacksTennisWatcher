@@ -1,0 +1,2 @@
+# zacksTennisWatcher
+zacksTennisAssistant 是一款用于实时监测网球场预订状态的浏览器插件。当有符合您设定条件的场地可预订时，它会自动发送系统通知，帮助您第一时间获取信息，无需手动刷新页面。
