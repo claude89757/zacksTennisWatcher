@@ -9,6 +9,7 @@
 // @run-at       document-start
 // @updateURL    https://raw.githubusercontent.com/claude89757/zacksTennisWatcher/main/zacks.js
 // @downloadURL  https://raw.githubusercontent.com/claude89757/zacksTennisWatcher/main/zacks.js
+// @license      MIT
 // ==/UserScript==
 
 (function() {
@@ -352,7 +353,7 @@
                     timeRangeControl.endTime = endTimeInput.value;
                 };
 
-                // ���建巡检周期选择
+                // 建巡检周期选择
                 const intervalSelect = document.createElement('select');
                 intervalSelect.style.cssText = `
                     padding: 4px;
@@ -880,7 +881,7 @@
                 }
             }, 1000);
 
-            // 开始监听请��
+            // 开始监听请
             monitorRequests();
 
             // 在脚本初始化时请求通知权限
